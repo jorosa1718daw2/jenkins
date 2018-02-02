@@ -22,7 +22,7 @@ public class Jenkins {
             bw.write("      Treballant amb l'IC Jenkins");bw.newLine();
             bw.write("    </title>");bw.newLine();
             bw.write("  </head>");bw.newLine();
-            bw.write("    2a Modificacio del projecte jenkins);bw.newLine()
+            bw.write(" 2a Modificacio del projecte jenkins);bw.newLine()..
             bw.write("  <body>");bw.newLine();
             bw.write("    Projecte per provar l'IC Jenkins");bw.newLine();
             bw.write("  </body>");bw.newLine();
